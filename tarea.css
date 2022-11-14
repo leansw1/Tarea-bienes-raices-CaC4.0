@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+
+}
+
+header {
+    background-color: grey;
+    padding-left: 15%;
+    height: 250px;
+    width:auto;
+}
+
+body> header> h1{
+    color: white;
+    font-size: 300%;
+    
+}
+
+body> header> h2{
+    font-size: 300%;
+}
+body> header> .nav> a{
+    color: white;
+    
+}
+
+article {
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: justify;
+}
+
+footer {
+    background-color: grey;
+    padding-left: 15%;
+    height: 40px;
+    width:auto;
+}
